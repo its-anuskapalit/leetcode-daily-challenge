@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0023-merge-k-sorted-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
