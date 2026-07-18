@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
