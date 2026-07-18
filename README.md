@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0076-minimum-window-substring) |
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0076-minimum-window-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
