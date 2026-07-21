@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
