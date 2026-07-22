@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1260-shift-2d-grid](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
