@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0290-word-pattern) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0049-group-anagrams) |
 | [0289-game-of-life](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0290-word-pattern) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
