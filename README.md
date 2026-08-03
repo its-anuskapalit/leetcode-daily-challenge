@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0383-ransom-note) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
