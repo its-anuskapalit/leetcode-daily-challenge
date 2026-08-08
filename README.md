@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
