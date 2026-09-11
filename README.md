@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -313,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
