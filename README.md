@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0383-ransom-note) |
 | [0940-distinct-subsequences-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1927-sum-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0383-ransom-note) |
+| [1096-brace-expansion-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
