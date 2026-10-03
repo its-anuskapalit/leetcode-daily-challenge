@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0049-group-anagrams) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
