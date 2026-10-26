@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3525-find-x-value-of-array-ii](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-anuskapalit/leetcode-daily-challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
